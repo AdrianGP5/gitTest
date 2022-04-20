@@ -1,3 +1,4 @@
+// required: npm install prompt-sync 
 const prompt = require('prompt-sync')()
 
 console.log("Test code")
